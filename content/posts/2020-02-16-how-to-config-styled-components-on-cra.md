@@ -2,7 +2,7 @@
 template: post
 title: How to config styled components on CRA
 slug: how-to-config-styled-components-on-cra
-draft: true
+draft: false
 date: 2020-02-16T17:19:54.083Z
 description: Tutorial for add styled components on create react app
 category: tutorial
