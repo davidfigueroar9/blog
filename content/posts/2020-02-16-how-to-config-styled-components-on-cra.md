@@ -4,13 +4,29 @@ title: How to config styled components on CRA
 slug: how-to-config-styled-components-on-cra
 draft: false
 date: 2020-02-16T17:19:54.083Z
-description: Tutorial for add styled components on create react app
+description: >-
+  Possibly, you feel that css in js is a bit overhead,
+
+  that mixing js with css makes everything more complicated, more difficult to
+  maintain, I also thought so,
+
+  I even decided to try styled components and I had a big surprise, which for me
+  justifies its use, what was my surprise?
+
+  the agility to create visual components
 category: tutorial
 tags:
   - react
   - creacte-react-app
   - styled components
 ---
+Possibly, you feel that css in js is a bit overhead,
+that mixing js with css makes everything more complicated, more difficult to maintain, I also thought so,
+I even decided to try styled components and I had a big surprise, which for me justifies its use, what was my surprise?
+the agility to create visual components
+
+that is because i decided to make a tutorial for the people that want to try too.
+
 
 1) Created an app using `create-react-app`
 
